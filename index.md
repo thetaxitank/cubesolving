@@ -2,7 +2,7 @@
 
 All the content below was carefully gathered and placed together by [the_taxi_tank](https://www.youtube.com/channel/UCOmONVM615wqzeHQvvNNc7w?view_as=subscriber) if you want to contribute to the developement of this website, dm me on Discord (taxy#1141)
 
-[Test](#cube-solving-method:)
+[Test](#cube-solving-method)
 
 ### A brief introduction before you get started solving your cube.
 
