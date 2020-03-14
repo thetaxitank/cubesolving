@@ -7,4 +7,6 @@ All the content below was carefully gathered and placed together by [the_taxi_ta
 
 Before solving any cube you first need to get familliar with how it moves, and what happens if you move this or that side, since some ways of solving a cube are purely intuitive. However not all the steps to solving a cube are intuitive, and for those you will need algorithms. This website will provide you with most (if not all) information you need to know.
 
+[Click me](http://www.google.com){: .btn}
+
 
