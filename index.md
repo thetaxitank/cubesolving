@@ -1,21 +1,15 @@
-## Welcome to GitHub Pages
+## cubesolving
 
-You can use the [editor on GitHub](https://github.com/thetaxitank/cubesolving/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+All the content below was carefully gathered and placed together by [the_taxi_tank](https://www.youtube.com/channel/UCOmONVM615wqzeHQvvNNc7w?view_as=subscriber) if you want to contribute to the developement of this website, dm me on Discord (taxy#1141)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### A brief introduction before you get started solving your cube.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Before solving any cube you first need to get familliar with how it moves, and what happens if you move this or that side.
 
 ```markdown
-Syntax highlighted code block
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
