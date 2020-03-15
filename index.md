@@ -6,14 +6,14 @@ All the content below was carefully gathered and placed together by [the_taxi_ta
 
 ## Directory
 
-[3x3x3 CFOP](#cube-solving-method-3x3-cfop)
+[3x3x3 LBL (Layer by layer)](#cube-solving-method-3x3-lbl)
 
 ### A brief introduction before you get started solving your cube.
 
 Before solving any cube you first need to get familliar with how it moves, and what happens if you move this or that side, since some ways of solving a cube are purely intuitive. However not all the steps to solving a cube are like that, and for those you will need algorithms. This website will provide you with most (if not all) information and algorithms you need to know.
 
 
-## <a name="cube-solving-method-3x3-cfop"></a>3x3x3 CFOP!
+## <a name="cube-solving-method-3x3-lbl"></a>3x3x3 LBL!
 ### Step 1
 
 In this step we want to make a white cross. This step is mostly intuitive, but an important thing to keep in mind is that the centres match with the edges.This step is very important, because you won't be able to progress further without it.
@@ -31,13 +31,13 @@ After you solved the white cross and made sure that the white edges match the ce
 Once you have solved all the white face, you have to arrange the second layer. To do this there is 2 algorithms that we can use.
 (Notice how the top layer is now the yellow one.)
 
-![](cube algorithms/cfopalg1.png)
-![](cube algorithms/cfopalg2.png)
+![](cube algorithms/lblalg1.png)
+![](cube algorithms/lblalg2.png)
 
 ### Step 4
 
 After both layers are propperly solved, you have to make a white cross on the top. For that you have to use the algorithm 3. After you executed the algorithm and got one of the situations below, you have to position them as shown on the picture, and then run the algorithm again.
 
-![](cube algorithms/cfopalg3.png)
+![](cube algorithms/lblalg3.png)
 
 
