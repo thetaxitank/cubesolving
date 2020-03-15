@@ -34,5 +34,10 @@ Once you have solved all the white face, you have to arrange the second layer. T
 ![](cube algorithms/cfopalg1.png)
 ![](cube algorithms/cfopalg2.png)
 
+### Step 4
+
+After both layers are propperly solved, you have to make a white cross on the top. For that you have to use the algorithm 3. After you executed the algorithm and got one of the situations below, you have to position them as shown on the picture, and then run the algorithm again.
+
+![](cube algorithms/cfopalg3.png)
 
 
