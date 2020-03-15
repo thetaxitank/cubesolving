@@ -14,7 +14,7 @@ Before solving any cube you first need to get familliar with how it moves, and w
 ## <a name="cube-solving-method-3x3-cfop"></a>3x3x3 CFOP!
 ### Step 1
 
-In this step we want to make a white cross. This step is mostly intuitive, but an important thing to keep in mind is that the centres match with the edges.This step is very important, because the whole concept of 
+In this step we want to make a white cross. This step is mostly intuitive, but an important thing to keep in mind is that the centres match with the edges.This step is very important, because you won't be able to progres further without it.
 
 ![](cube algorithms/step 1.png)
 
