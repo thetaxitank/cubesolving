@@ -26,3 +26,11 @@ After you solved the white cross and made sure that the white edges match the ce
 
 ![](cube algorithms/step 2.png)
 
+### Step 3
+
+Once you have solved all the white face, you have to arrange the second layer. To do this there is 2 algorithms that we can use.
+(Notice how the top layer is now the yellow one.)
+
+![](cube algorithms/alg. 1.png)
+
+
