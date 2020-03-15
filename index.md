@@ -28,6 +28,10 @@ After you solved the white cross and made sure that the white edges match the ce
 
 ![](cube algorithms/step 2.png)
 
+You may also use the following algorithm to position the corners. Just position the corner above the slot where it should go, and then run the algorithm until it is in place and oriented the right way.
+
+![](cube algorithms/lblalg0.png)
+
 ### Step 3
 #### Positioning second layer edges
 
