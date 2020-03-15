@@ -32,5 +32,7 @@ Once you have solved all the white face, you have to arrange the second layer. T
 (Notice how the top layer is now the yellow one.)
 
 ![](cube algorithms/cfopalg1.png)
+![](cube algorithms/cfopalg2.png)
+
 
 
