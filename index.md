@@ -40,4 +40,9 @@ After both layers are propperly solved, you have to make a white cross on the to
 
 ![](cube algorithms/lblalg3.png)
 
+### Step 5
+
+This step is in fact really simple; once you have the yellow cross solved, you can just run the algorithm below a couple of times, right until the yellow face is solved. (I will upload a way to cut this time down later)
+
+![](cube algorithms/lblalg4.pmg)
 
