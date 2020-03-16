@@ -65,7 +65,7 @@ This step is in fact really simple; once you have the yellow cross solved, you c
 
 If you take a look at the yellow corners, there is a chance that you might find that there is 2 of them positioned correctly, and 2 of them that need to be swapped. For swapping those corners, we need to place the face where the 2 corners are alligned at the front, and then run the following algorithm (see picture as reference). 
 
-In case of there being no correctly positioned corners, then you may just run the algorithm below with any front face, then find the 2 correctly positioned corners, and then run the algorithm again but with the 2 correctly positioned edges facing you.
+In case of there being no correctly positioned corners, then you may just run the algorithm below with any front face (keep in mind that yellow face must be the top one), then find the 2 correctly positioned corners, and then run the algorithm again but with the 2 correctly positioned edges facing you.
 
 ![](cube algorithms/lblalg5.png)
 
