@@ -19,7 +19,7 @@ Irrrlvant for telling me an algorithm for white LBL layer.
 Before solving any cube you first need to get familliar with how it moves, and what happens if you move this or that side, since some ways of solving a cube are purely intuitive. However not all the steps to solving a cube are like that, and for those you will need algorithms. This website will provide you with most (if not all) information and algorithms you need to know.
 
 
-## <a name="cube-solving-method-3x3-lbl"></a>3x3x3 LBL!
+## <a name="cube-solving-method-3x3-lbl"></a>3x3x3 LBL (Layer by layer)!
 ### Step 1
 #### The white cross
 
@@ -60,4 +60,12 @@ After both layers are propperly solved, you have to make a white cross on the to
 This step is in fact really simple; once you have the yellow cross solved, you can just run the algorithm below a couple of times, right until the yellow face is solved. (I will upload a way to cut this time down later)
 
 ![](cube algorithms/lblalg4.png)
+
+### Step 6
+
+If you take a look at the yellow corners, there is a chance that you might find that there is 2 of them positioned correctly, and 2 of them that need to be swapped. For swapping those corners, we need to place the face where the 2 corners are alligned at the front, and then run the following algorithm (see picture as reference). 
+
+In case of there being no correctly positioned corners, then you may just run the algorithm below with any front face, then find the 2 correctly positioned corners, and then run the algorithm again but with the 2 correctly positioned edges facing you.
+
+![](cube algorithms/lblalg5.png)
 
