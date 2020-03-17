@@ -10,6 +10,8 @@ Uranus_is_big for helping me set up this thing.
 
 Irrrlvant for telling me an algorithm for white LBL layer.
 
+(By the way you can change the page's zoom with ctrl + "+" and ctrl + "-"
+
 ## Directory
 
 [3x3x3 LBL (Layer by layer)](#cube-solving-method-3x3-lbl)
