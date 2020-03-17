@@ -44,7 +44,7 @@ You may also use the following algorithm to position the corners. Just position 
 #### Positioning second layer edges
 
 Once you have solved all the white face, you have to arrange the second layer. To do this there is 2 algorithms that we can use.
-(Notice how the top layer is now the yellow one.)
+(Notice how the top layer is also the yellow one.)
 
 ![](cube algorithms/lblalg1.png)
 ![](cube algorithms/lblalg2.png)
@@ -59,7 +59,7 @@ After both layers are propperly solved, you have to make a white cross on the to
 ### Step 5
 #### The yellow face
 
-This step is in fact really simple; once you have the yellow cross solved, you have to run the algorithm below a couple of times, right until the yellow face is solved (you have to position the top face as shown in [LBL note 1](#LBL-3x3-notes) each time though).
+This step is in fact really simple; once you have the yellow cross solved, you have to run the algorithm below a couple of times, right until the yellow face is solved (you have to position the top face as shown in [LBL note 1](#LBL-3x3-note1) each time though).
 
 ![](cube algorithms/lblalg4.png)
 
@@ -79,9 +79,9 @@ If you have one solved side, then place it on the back, and then run one of the 
 ![](cube algorithms/lblalg6.png)
 ![](cube algorithms/lblalg7.png)
 
-### <a name="LBL-3x3-notes"></a>LBL notes!
+### LBL notes!
 
-#### Note 1
+#### <a name="LBL-3x3-note1"></a> Note 1
 
 ![](cube algorithms/lblextra1.png)
 
