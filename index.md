@@ -81,6 +81,8 @@ If you have one solved side, then place it on the back, and then run one of the 
 
 ### <a name="LBL-3x3-notes"></a>LBL notes!
 
+#### Note 1
+
 ![](cube algorithms/lblextra1.png)
 
 
