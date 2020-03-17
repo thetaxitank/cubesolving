@@ -32,7 +32,7 @@ In this step we want to make a white cross. This step is mostly intuitive, but a
 ### Step 2
 #### The white face
 
-After you solved the white cross and made sure that the white edges match the centres, you have to solve the white layer. This step is also intuitive, but here is a quite useful tip. To turn the corners at wish you can use the bottom layer (in case of your top layer being the white one), and then position them right.
+After you solved the white cross and made sure that the white edges match the centres, you have to solve the white layer. This step is also intuitive, but here is a quite useful tip. To turn the corners at wish you can use the bottom layer (in case of your top layer being the white one), and then position them right. Notice how the yellow layer is the top now.
 
 ![](cube algorithms/step 2.png)
 
