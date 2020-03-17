@@ -59,7 +59,7 @@ After both layers are propperly solved, you have to make a white cross on the to
 ### Step 5
 #### The yellow face
 
-This step is in fact really simple; once you have the yellow cross solved, you have to run the algorithm below a couple of times, right until the yellow face is solved (you have to position the top face as shown in [LBL note 1](#LBL-3x3-notes) though).
+This step is in fact really simple; once you have the yellow cross solved, you have to run the algorithm below a couple of times, right until the yellow face is solved (you have to position the top face as shown in [LBL note 1](#LBL-3x3-notes) each time though).
 
 ![](cube algorithms/lblalg4.png)
 
