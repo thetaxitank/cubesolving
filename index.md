@@ -69,3 +69,10 @@ In case of there being no correctly positioned corners, then you may just run th
 
 ![](cube algorithms/lblalg5.png)
 
+### Step 7
+
+Once all the top corners are positioned and oriented the right way, you may need to position the top edges. This is very simple, just rotate the edges you want to position in the direction you want to (clockwise and counterclockwise) with the following two algorithms.
+
+![](cube algorithms/lblalg6.png)
+![](cube algorithms/lblalg7.png)
+
