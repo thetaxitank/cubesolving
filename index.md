@@ -10,7 +10,7 @@ Uranus_is_big for helping me set up this thing.
 
 Irrrlvant for telling me an algorithm for white LBL layer.
 
-(By the way you can change the page's zoom with ctrl + "+" and ctrl + "-"
+(By the way you can change the page's zoom with ctrl + "+" and ctrl + "-")
 
 ## Directory
 
