@@ -28,9 +28,7 @@ Before solving any cube you first need to get familliar with how it moves, and w
 In this step we want to make a white cross. This step is mostly intuitive, but an important thing to keep in mind is that the centres match with the edges.This step is very important, because you won't be able to progress further without it.
 
 ![](cube algorithms/step 1.png)
-```markdown
-ewe
-```
+
 ### Step 2
 #### The white face
 
@@ -41,6 +39,10 @@ After you solved the white cross and made sure that the white edges match the ce
 You may also use the following algorithm to position the corners. Just position the corner above the slot where it should go, and then run the algorithm until it is in place and oriented the right way. Notice how the yellow layer is the top now.
 
 ![](cube algorithms/lblalg0.png)
+
+```markdown
+U R U' R' - Alg. 0
+```
 
 ### Step 3
 #### Positioning second layer edges
