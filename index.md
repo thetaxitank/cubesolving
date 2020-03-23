@@ -28,7 +28,9 @@ Before solving any cube you first need to get familliar with how it moves, and w
 In this step we want to make a white cross. This step is mostly intuitive, but an important thing to keep in mind is that the centres match with the edges.This step is very important, because you won't be able to progress further without it.
 
 ![](cube algorithms/step 1.png)
-
+```markdown
+ewe
+```
 ### Step 2
 #### The white face
 
