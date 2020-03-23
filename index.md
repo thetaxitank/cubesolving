@@ -85,4 +85,13 @@ If you have one solved side, then place it on the back, and then run one of the 
 
 ![](cube algorithms/lblextra1.png)
 
+## <a name="cube-solving-method-4x4-"></a>4x4x4!
 
+### Notation
+(coming soon)
+
+### Step 1
+
+First of all you need to solve the cube's centres. To do this the following algorithms shoud be used, and executed according to the scheme below.
+
+![](cube algorithms/4x4 step 1.png)
