@@ -26,6 +26,6 @@ The picture below will help you memorize the color scheme (you have to also read
 
 Now, you may notice that some of the colors on your cube are not positioned right, so you may use the following algorithm to swap two centres. (Those centres are the front one and the one on the right).
 
-
+![](cube algorithms/alg4x4-m1-3)
 ### Step 3
 
