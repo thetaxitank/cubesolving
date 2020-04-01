@@ -99,3 +99,4 @@ If you have one solved side, then place it on the back, and then run one of the 
 First of all you need to solve the cube's centres. To do this the following algorithms shoud be used, and executed according to the scheme below.
 
 ![](cube algorithms/4x4 step 1.png)
+![](cube algorithms/alg4x4-m1-1-2.png)
