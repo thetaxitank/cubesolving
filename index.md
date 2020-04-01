@@ -14,7 +14,7 @@ Irrrlvant for telling me an algorithm for white LBL layer.
 
 ## Directory
 
-[3x3x3 LBL (Layer by layer)](../cubesolving/lbl-3x3.md)
+<a href="../blob/master/lbl-3x3.md">3x3x3 LBL (Layer by layer)</a>
 
 ### A brief introduction before you get started solving your cube.
 
