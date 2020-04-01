@@ -105,9 +105,11 @@ First of all you need to solve the cube's centres. To do this the following algo
 
 Once you have got the all centres solved, you have to position them correctly since even cubes (cubes like 2x2, 4x4 and 6x6) dont have fixed centres. If you are using the default color scheme, you have to remember the following things:
 
-**<span style="color: yellow;">Yellow</span>** is opposite of White
-Green is opposite of Blue
-Orange is opposite of Red
+**<span style="color: yellow;">Yellow</span>** is opposite of **<span style="color: white;">White</span>**
+
+**<span style="color: green;">Green</span>** is opposite of **<span style="color: blue;">Blue</span>**
+
+**<span style="color: orange;">Orange</span>** is opposite of **<span style="color: red;">Red</span>**
 
 The picture below will help you memorize the color scheme (you have to also read the text above).
 
