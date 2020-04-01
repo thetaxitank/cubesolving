@@ -113,4 +113,6 @@ Once you have got the all centres solved, you have to position them correctly si
 
 The picture below will help you memorize the color scheme (you have to also read the text above).
 
+![](cube algorithms/memorize color scheme.png)
+
 
