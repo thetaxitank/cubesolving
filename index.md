@@ -15,6 +15,7 @@ Irrrlvant for telling me an algorithm for white LBL layer.
 ## Directory
 
 [3x3x3 LBL (Layer by layer)](lbl-3x3.md)
+
 [4x4x4 Reduction](red-4x4.md)
 
 
