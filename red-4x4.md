@@ -27,5 +27,10 @@ The picture below will help you memorize the color scheme (you have to also read
 Now, you may notice that some of the colors on your cube are not positioned right, so you may use the following algorithm to swap two centres. (Those centres are the front one and the one on the right).
 
 ![](cube algorithms/alg4x4-m1-3.png)
+
 ### Step 3
+
+Once you have solved and positioned the centres correctly you need to solve the edge pieces. For this step you may move the external sides freely, however you shouldn't move the centres in any way.
+
+![](cube algorithms/alg4x4-m1-4.png)
 
