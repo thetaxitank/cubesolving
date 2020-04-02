@@ -3,14 +3,14 @@
 ### Notation
 (coming soon)
 
-### Step 1
+### Step 1 - The centres
 
 First of all you need to solve the cube's centres. To do this the following algorithms shoud be used, and executed according to the scheme below.
 
 ![](cube algorithms/4x4 step 1.png)
 ![](cube algorithms/alg4x4-m1-1-2.png)
 
-### Step 2
+### Step 2 - The centres but better
 
 Once you have got the all centres solved, you have to position them correctly since even cubes (cubes like 2x2, 4x4 and 6x6) don't have them fixated. If you are using the default color scheme, you have to remember the following things:
 
@@ -28,7 +28,7 @@ Now, you may notice that some of the colors on your cube are not positioned righ
 
 ![](cube algorithms/alg4x4-m1-3.png)
 
-### Step 3
+### Step 3 - The edges
 
 Once you have solved and positioned the centres correctly you need to solve the edge pieces. For this step you may move the external sides freely, however you shouldn't move the centres in any way.
 
