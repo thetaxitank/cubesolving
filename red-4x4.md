@@ -34,3 +34,12 @@ Once you have solved and positioned the centres correctly you need to solve the 
 
 ![](cube algorithms/alg4x4-m1-4.png)
 
+### Step 4 - The 4x4x4 but it's a 3x3x3
+
+For this step you may choose any 3x3 solving method you like. Just think of the pairs of edges as of the edges of a 3x3 cube, and the corners as the corners of a 3x3 cube.
+
+### Step 5 - The parities
+
+If you have encountered a special situation that doesnt exist in a regular 3x3 cube, that means that you've encountered a parity. There are 3 parities for the 4x4 cube.
+
+![](cube algorithms/alg4x4-m1-5.png)
