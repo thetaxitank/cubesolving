@@ -40,6 +40,12 @@ For this step you may choose any 3x3 solving method you like. Just think of the 
 
 ### Step 5 - The parities
 
-If you have encountered a special situation that doesnt exist in a regular 3x3 cube, that means that you've encountered a parity. There are 3 parities for the 4x4 cube.
+If you have encountered a special situation that doesnt exist in a regular 3x3 cube, that means that you've encountered a parity. There are 2 types of parities for the 4x4 cube.
 
+This is an edge flip parity. You will most likely encounter it while solving the orienting the last layer of the cube.
+To solve it do the following algorithm.
 ![](cube algorithms/alg4x4-m1-5.png)
+
+The other type of parity is the edge swap parity. In it you have to swap 2 pairs of edges. You may run the following algorithm in any position (with the top face facing the top, apologies for the redundancy).
+
+![](cube algorithms/alg4x4-m1-6.png)
